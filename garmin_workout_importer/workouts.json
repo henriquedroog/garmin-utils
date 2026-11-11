@@ -1,0 +1,11 @@
+[
+  {
+    "workout_name": "Endurance #1 - Cruise Intervals",
+    "sport_type": "running",
+    "warmup_seconds": 1200,
+    "repeats": 5,
+    "work_seconds": 300,
+    "rest_seconds": 60,
+    "cooldown_seconds": 60
+  }
+]
